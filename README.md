@@ -35,15 +35,6 @@
 
 ###
 
-<h2 align="left">📈 GitHub Stats:</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasArantesQA&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" alt="LucasArantesQA GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LucasArantesQA&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="LucasArantesQA Top Languages" />
-</div>
-
-###
-
 <h2 align="left">🛠️ Notable Skills:</h2>
 
 - 📌 **React**: Building SPA dashboards, reusable components, and UI logic with hooks and context.
