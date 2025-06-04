@@ -54,6 +54,6 @@
 <h3 align="left">📬 Let's connect:</h3>
 
 - GitHub: [LucasArantesQA](https://github.com/LucasArantesQA)
-- LinkedIn: [Seu LinkedIn Aqui](https://www.linkedin.com/in/lucas7892051b5/)
+- LinkedIn: [Lucas Arantes](https://www.linkedin.com/in/lucas7892051b5/)
 - Email: lucasarantesqa@gmail.com
 
