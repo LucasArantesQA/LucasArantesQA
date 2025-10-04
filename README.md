@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Lucas
 
 🎯 Developer focused on automation, CI/CD, and software quality.  
-💼 Currently working at Bureau Works as a Quality Engineer.  
+💼 Currently working as a Quality Engineer.  
 🎮 Passionate about tech, gaming, and logical challenges.
 
 ###
